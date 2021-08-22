@@ -30,7 +30,7 @@ void loop() {
   unsigned char result = r.process();
   if (result) {
     Keyboard.press(ctrlKey);
-    result == DIR_CW ? redo() : undo();
+    result == DIR_CW ? undo() : redo();
     Keyboard.release(ctrlKey);
   }
 }
