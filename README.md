@@ -2,6 +2,8 @@
 
 作成中
 
+[Rotary.h](https://github.com/brianlow/Rotary)
+
 ## 部品
 
 arduino Pro micro
